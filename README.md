@@ -19,9 +19,7 @@ public class Snake
 
     {
         public int X { get; set; }
-        
         public int Y { get; set; }
-        
         public float Radius { get; set; }
         public int nasoka { get; set; }
         public bool otvorena { get; set; }
