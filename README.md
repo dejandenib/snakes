@@ -12,10 +12,15 @@
 Играта завршува кога ќе истече времето, или кога ниедна змија веќе нема да биде дел од играта.
 Имплементација:
 Секоја змија е претставена со следната класа
+
 public class Snake
+
     {
+
         public int X { get; set; }
+
         public int Y { get; set; }
+
         public float Radius { get; set; }
         public int nasoka { get; set; }
         public bool otvorena { get; set; }
