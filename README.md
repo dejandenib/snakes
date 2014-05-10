@@ -14,6 +14,7 @@
 Секоја змија е претставена со следната класа
 
 
+
 public class Snake
     {
         public int X { get; set; }
