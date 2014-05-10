@@ -1,0 +1,10 @@
+C:\Users\Deni\Documents\Visual Studio 2010\Projects\2snakes\bin\Debug\2snakes.exe
+C:\Users\Deni\Documents\Visual Studio 2010\Projects\2snakes\bin\Debug\2snakes.pdb
+C:\Users\Deni\Documents\Visual Studio 2010\Projects\2snakes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Deni\Documents\Visual Studio 2010\Projects\2snakes\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Deni\Documents\Visual Studio 2010\Projects\2snakes\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Deni\Documents\Visual Studio 2010\Projects\2snakes\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Deni\Documents\Visual Studio 2010\Projects\2snakes\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Deni\Documents\Visual Studio 2010\Projects\2snakes\obj\x86\Debug\2snakes.exe
+C:\Users\Deni\Documents\Visual Studio 2010\Projects\2snakes\obj\x86\Debug\2snakes.pdb
+C:\Users\Deni\Documents\Visual Studio 2010\Projects\2snakes\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
